@@ -1,0 +1,10 @@
+myvar = "Mobile"
+my_var = "Mobile"
+_my_var = "Mobile"
+myVar = "Mobile"
+MYVAR = "Mobile"
+myvar2 = "Mobile"
+
+2myvar = "Mobile"
+my-var = "Mobile"
+my var = "Mobile"

@@ -1,0 +1,10 @@
+x = "Hello World"  # str
+x = 20  # int
+x = 20.5
+x = ["apple", "banana", "cherry "]
+x = ("apple", "banana", "cherry")
+x = {"name": "suchanat", "age": 26}
+x = {"apple ", "banana", "cherry "}
+x = frozenset({"apple", "banana", "cherry"})
+x = True
+x = b"hello"

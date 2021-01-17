@@ -8,7 +8,8 @@ fruits[0] = "kiwi"
 
 # จงเพิ่ม "kiwi" ไปยัง fruits list
 fruits = ["apple", "banana", "cherry"]
-# fruits.addend("kiwi")
+fruits.addend("kiwi")
+print(fruits)
 
 # จงเพิ่ม "lemon" ไประหว่าง "apple" กับ "ิิbananna"
 fruits = ["apple", "banana", "cherry"]
@@ -24,4 +25,5 @@ print(fruits[2])
 
 # จงแสดงจำนวนของ fruits
 fruits = ["apple", "banana", "cherry"]
-print(len(fruits))
+for fruits in fruits_list:
+    print(fruits)

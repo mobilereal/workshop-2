@@ -18,3 +18,5 @@ for table in table:
     for num in number:
         print(table, " * ", num, " : ", table * num)
     print("------------")
+
+####################################################

@@ -1,6 +1,6 @@
-class  Person:
-   def  __init__(self,name,age,address):
-        self.name = name 
+class Person:
+    def __init__(self, name, age, address):
+        self.name = name
         self.age = age
         self.address = address
 
@@ -10,8 +10,8 @@ class  Person:
     def get_age(self):
         return self.age
 
-    def  get_address(self):
+    def get_address(self):
         return self.address
 
     def get_info(self):
-        return {"name": self.name,"age" : self.age}
+        return {"name": self.name, "age": self.age}

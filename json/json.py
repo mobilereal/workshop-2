@@ -1,6 +1,7 @@
 import json
 
-json_string = '{"name" : "Mobile & NN " ,"age" : 20, "city":"CH"}'
+json_string = '{"name" : "Mobile & NN " ,"age" : 20,
+ "city":"CM"}'
 
 python_dict = json.loads(json_string)
 
